@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="10px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip70">
+    <mask fill="white" id="clip16">
       <path d="M 176 175  C 173.78 175  172 173.22  172 171  L 172 169  C 172 166.78  173.78 165  176 165  L 176 165  C 178.22 165  180 166.78  180 169  L 180 171  C 180 173.22  178.22 175  176 175  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -172 -165 )">
-    <image preserveAspectRatio="none" style="overflow:visible" width="8" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAAAXNSR0IArs4c6QAAANBJREFUOBFjZCAA7t+/L/H79+8OkDJWVtYKRUXFF/i0sOCTBMmBDPv//388lA2iEkAELsCESwJJXAEHG0kYwSTGQIRqIlijBhIRSASUUD0MGZESrgIOy/WB6VAAJMfIyPgBSF3Eoe4BKOGzICdcHArhwlCD7eECqAx7oFkM1PbyfxaQM0EmA4ECqoVwHilermSEa8PBuHXr1gGgV8HeBIbhQTU1NQccSsHC1PYy1cNw1EB80UekHDGx/ADJrPtIbKxMgnUKUsIHVVKVWE1BEgQA6/xFXFvhBSgAAAAASUVORK5CYII=" x="172px" y="165px" mask="url(#clip70)" />
+    <image preserveAspectRatio="none" style="overflow:visible" width="8" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAAAXNSR0IArs4c6QAAANBJREFUOBFjZCAA7t+/L/H79+8OkDJWVtYKRUXFF/i0sOCTBMmBDPv//388lA2iEkAELsCESwJJXAEHG0kYwSTGQIRqIlijBhIRSASUUD0MGZESrgIOy/WB6VAAJMfIyPgBSF3Eoe4BKOGzICdcHArhwlCD7eECqAx7oFkM1PbyfxaQM0EmA4ECqoVwHilermSEa8PBuHXr1gGgV8HeBIbhQTU1NQccSsHC1PYy1cNw1EB80UekHDGx/ADJrPtIbKxMgnUKUsIHVVKVWE1BEgQA6/xFXFvhBSgAAAAASUVORK5CYII=" x="172px" y="165px" mask="url(#clip16)" />
   </g>
 </svg>
